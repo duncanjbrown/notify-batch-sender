@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    jwt (2.2.1)
+    notifications-ruby-client (5.1.1)
+      jwt (>= 1.5, < 3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  notifications-ruby-client
+
+BUNDLED WITH
+   2.1.4
